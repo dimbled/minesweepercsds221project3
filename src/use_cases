@@ -1,0 +1,8 @@
+use#101	completeness	project meets use cases to a basic and sufficient level	30
+use#102	quality	quality compared to other submissions (below average = 0 - 7/10, average = 8/10, above average = 9/10, absolute masterpiece = 10/10)	10
+use#103	bugs	project has no bugs (f12 console does not show red errors after any event)	25
+use#125	originality	creativity and originality of the application idea (tic tac toe = 5/10, elon musk tracker = 10/10)	5
+use#126	intuition	application is easy to use and intuitive (needs very little instruction to use)	10
+use#127	installation	application should not require any special installation steps to run, app should run on start	10
+use#128	user interface	ui is clean, organized, and presentable	5
+use#129	value	app is entertaining, has replay value, or has a useful purpose (can save someone time i.e. automates)
